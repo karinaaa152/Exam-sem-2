@@ -1,0 +1,4 @@
+<!DOCTYPE connections>
+<qgsPgConnections version="1.0">
+    <postgis name="examen-sem2" geometryColumnsOnly="false" port="5432" projectsInDatabase="false" database="examen-sem2" publicOnly="false" estimatedMetadata="false" savePassword="false" sslmode="SslPrefer" saveUsername="false" service="" allowGeometrylessTables="false" host="" dontResolveType="false"/>
+</qgsPgConnections>
